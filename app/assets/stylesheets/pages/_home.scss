@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("sandro-schuh-HgwY_YQ1m0w-unsplash.jpg");
+  scroll-behavior: auto;
+}
